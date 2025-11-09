@@ -197,6 +197,6 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 This project demonstrates advanced web application development combining AI integration, interactive gaming mechanics, and modern UI design principles in a fun, educational Halloween-themed package.
 
 ### Made By
-Aanchal Bajpai
-Vidushi Dixit 
-Shatakshi Srivastava
+Aanchal Bajpai<br>
+Vidushi Dixit<br>
+Shatakshi Srivastava<br>
